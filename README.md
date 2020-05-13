@@ -4,4 +4,5 @@ App allows for addition and deletion of books, using local storage. It is made u
 
 [Live Demo](https://thirsty-kirch-4b982e.netlify.app/)
 
-[screenshot](screenshot.png)
+
+![screenshot](/screenshot.png)
